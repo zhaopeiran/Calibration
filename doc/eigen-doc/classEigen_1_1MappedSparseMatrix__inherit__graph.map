@@ -1,0 +1,4 @@
+<map id="MappedSparseMatrix&lt; _Scalar, _Flags, _Index &gt;" name="MappedSparseMatrix&lt; _Scalar, _Flags, _Index &gt;">
+<area shape="rect" id="node2" href="$classEigen_1_1SparseMatrixBase.html" title="{SparseMatrixBase\&lt; Mapped\lSparseMatrix\&lt; _Scalar,\l _Flags, _Index \&gt; \&gt;\n|# m_isRValue\l|+ adjoint()\l+ binaryExpr()\l+ block()\l+ block()\l+ block()\l+ block()\l+ block()\l+ block()\l+ blueNorm()\l+ bottomLeftCorner()\land 135 more...\l# assign()\l# assignGeneric()\l}" alt="" coords="21,347,208,675"/>
+<area shape="rect" id="node4" href="$structEigen_1_1EigenBase.html" title="{EigenBase\&lt; MappedSparseMatrix\l\&lt; _Scalar, _Flags, _Index \&gt; \&gt;\n||+ addTo()\l+ applyThisOnTheLeft()\l+ applyThisOnTheRight()\l+ cols()\l+ const_cast_derived()\l+ const_derived()\l+ derived()\l+ derived()\l+ evalTo()\l+ rows()\l+ size()\l+ subTo()\l}" alt="" coords="5,5,224,299"/>
+</map>

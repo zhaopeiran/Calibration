@@ -1,0 +1,49 @@
+Requeriments:
+- MacOSx and Linux:
+	- gnu g++ compiler
+  - opencv 2.4.8
+  - QT 4.8.6
+  - GSL (GNU Scientific library) 1.16
+- Windows:
+	- MVC++ 2010
+  - opencv 2.4.8
+  - QT 4.8.6
+  - GSL (GNU Scientific library) 1.16
+
+Compilation:
+- go to "build" folder
+- execute: qmake calibration_cmd.pro
+- execute: make
+
+Execution:
+All the executables are generated in "bin" folder.
+
+
+Folder Structure:
+.
+├── bin: executable files
+├── build: compilation files
+├── doc: documentation
+|   └── dev: Gazetracker doxygen generated documentation
+|   └── eigen-doc: Eigen mathematical support library documentation
+├── inc: header files
+|   └── calibration: calibration algorithms
+|   └── detection: pupil detection and position algorithm
+|   └── eigen: Eigen mathematical support library (http://eigen.tuxfamily.org)
+|   └── video: video and image manipulation
+└── src: source files
+    └── calibration: calibration algorithms
+    └── video: video and image manipulation
+
+
+DEBUG or RELEASE mode:
+by default DEBUG mode is activated, to deactivate change: 
+    CONFIG += debug
+to
+    CONFIG += release
+in the files:
+   - build/calibration_cmd.pro
+
+
+EXAMPLE:
+  ./gazetracker_cmd_d -a inter -f "input_R.avi;input_L.avi" -o "~/Download" -ct "calib.csv" -cv "input_calib_R.avi;input_calib_L.avi"

@@ -1,0 +1,4 @@
+<map id="SparseMatrix&lt; _Scalar, _Options, _Index &gt;" name="SparseMatrix&lt; _Scalar, _Options, _Index &gt;">
+<area shape="rect" id="node2" href="$classEigen_1_1SparseMatrixBase.html" title="{SparseMatrixBase\&lt; Sparse\lMatrix\&lt; _Scalar, _Options,\l _Index \&gt; \&gt;\n|# m_isRValue\l|+ adjoint()\l+ binaryExpr()\l+ block()\l+ block()\l+ block()\l+ block()\l+ block()\l+ block()\l+ blueNorm()\l+ bottomLeftCorner()\land 135 more...\l# assign()\l# assignGeneric()\l}" alt="" coords="5,365,187,693"/>
+<area shape="rect" id="node4" href="$structEigen_1_1EigenBase.html" title="{EigenBase\&lt; SparseMatrix\l\&lt; _Scalar, _Options, \l_Index \&gt; \&gt;\n||+ addTo()\l+ applyThisOnTheLeft()\l+ applyThisOnTheRight()\l+ cols()\l+ const_cast_derived()\l+ const_derived()\l+ derived()\l+ derived()\l+ evalTo()\l+ rows()\l+ size()\l+ subTo()\l}" alt="" coords="9,6,183,317"/>
+</map>

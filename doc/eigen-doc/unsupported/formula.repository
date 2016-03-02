@@ -1,0 +1,95 @@
+\form#0:$(x,y,r)$
+\form#1:$r$
+\form#2:$d\pm\epsilon$
+\form#3:$ f $
+\form#4:\[ f(0) + f'(0) x + \frac{f''(0)}{2} x^2 + \frac{f'''(0)}{3!} x^3 + \cdots \]
+\form#5:$ f(x) $
+\form#6:\[ f(M) = f(0) + f'(0) M + \frac{f''(0)}{2} M^2 + \frac{f'''(0)}{3!} M^3 + \cdots \]
+\form#7:$ \cos(M) $
+\form#8:$ \cosh(M) $
+\form#9:$ M $
+\form#10:\[ \exp(M) = \sum_{k=0}^\infty \frac{M^k}{k!}. \]
+\form#11:$ y' = My $
+\form#12:$ y(0) = y_0 $
+\form#13:$ y(t) = \exp(M) y_0 $
+\form#14:$ 20 n^3 $
+\form#15:$ n $
+\form#16:\[ \exp \left[ \begin{array}{ccc} 0 & \frac14\pi & 0 \\ -\frac14\pi & 0 & 0 \\ 0 & 0 & 0 \end{array} \right] = \left[ \begin{array}{ccc} \frac12\sqrt2 & -\frac12\sqrt2 & 0 \\ \frac12\sqrt2 & \frac12\sqrt2 & 0 \\ 0 & 0 & 1 \end{array} \right]. \]
+\form#17:$ \frac14\pi $
+\form#18:$ X $
+\form#19:$ \exp(X) = M $
+\form#20:$ (-\pi,\pi] $
+\form#21:\[ \log \left[ \begin{array}{ccc} \frac12\sqrt2 & -\frac12\sqrt2 & 0 \\ \frac12\sqrt2 & \frac12\sqrt2 & 0 \\ 0 & 0 & 1 \end{array} \right] = \left[ \begin{array}{ccc} 0 & \frac14\pi & 0 \\ -\frac14\pi & 0 & 0 \\ 0 & 0 & 0 \end{array} \right]. \]
+\form#22:$ M^p $
+\form#23:$ \exp(p \log(M)) $
+\form#24:$ (-1, 1) $
+\form#25:\[ \left[ \begin{array}{ccc} \cos1 & -\sin1 & 0 \\ \sin1 & \cos1 & 0 \\ 0 & 0 & 1 \end{array} \right]^{\frac14\pi} = \left[ \begin{array}{ccc} \frac12\sqrt2 & -\frac12\sqrt2 & 0 \\ \frac12\sqrt2 & \frac12\sqrt2 & 0 \\ 0 & 0 & 1 \end{array} \right]. \]
+\form#26:$ f^{(n)}(x) $
+\form#27:$ \sin(M) $
+\form#28:$ \sinh(M) $
+\form#29:$ M^{1/2} $
+\form#30:$ S = M^{1/2} $
+\form#31:$ S^2 = M $
+\form#32:$ 25 n^3 $
+\form#33:$ 3\frac13 n^3 $
+\form#34:$ (-\frac12\pi, \frac12\pi] $
+\form#35:\[ \left[ \begin{array}{cc} \cos(\frac13\pi) & -\sin(\frac13\pi) \\ \sin(\frac13\pi) & \cos(\frac13\pi) \end{array} \right], \]
+\form#36:\[ \left[ \begin{array}{cc} \cos(\frac16\pi) & -\sin(\frac16\pi) \\ \sin(\frac16\pi) & \cos(\frac16\pi) \end{array} \right]. \]
+\form#37:$ a_i $
+\form#38:$ p(x) = a_0 + a_{1}x + ... + a_{n-1}x^{n-1} + x^n $
+\form#39:$ p $
+\form#40:$ p(x) = (x-r_1)(x-r_2)...(x-r_n) $
+\form#41:$C(p)$
+\form#42:$ \forall r_i $
+\form#43:$ p(x) = \sum_{k=0}^d a_k x^k $
+\form#44:$ |r_i| \le C(p) = \sum_{k=0}^{d} \left | \frac{a_k}{a_d} \right | $
+\form#45:$a_d \neq 0$
+\form#46:$c(p)$
+\form#47:$ \forall r_i \neq 0 $
+\form#48:$ |r_i| \ge c(p) = \left( \sum_{k=0}^{d} \left | \frac{a_k}{a_0} \right | \right)^{-1} $
+\form#49:$ p(x) = a_0 + a_1 x + a_2 x^2 + a_{3} x^3 + x^4 $
+\form#50:$ \left [ \begin{array}{cccc} 0 & 0 & 0 & a_0 \\ 1 & 0 & 0 & a_1 \\ 0 & 1 & 0 & a_2 \\ 0 & 0 & 1 & a_3 \end{array} \right ] $
+\form#51:$r_1,r_2,...,r_d$
+\form#52:$ \forall i,j \in [1;d],~ \| r_i \| \neq \| r_j \| $
+\form#53:$ k $
+\form#54:$ A $
+\form#55:$ V $
+\form#56:$ A V = D V $
+\form#57:$ A V = D B V $
+\form#58:$ A = V D V^{-1} $
+\form#59:$ A^{1/2} = V D^{1/2} V^{-1} $
+\form#60:$ V D^{-1/2} V^{-1} $
+\form#61:$ CINV = (C * C^T)^{-1} * C $
+\form#62:$ 1/2((Ax).x) - bx $
+\form#63:$ Cx \le f $
+\form#64:$ A x = b $
+\form#65:$ (V+U)(V-U)^{-1} $
+\form#66:$ \exp(A) $
+\form#67:$ A = 0 $
+\form#68:$ \exp(2^{-\mbox{squarings}}M) $
+\form#69:$ M = 0 $
+\form#70:\[ \sum_{k=i}^m A_{ik} X_{kj} + \sum_{k=1}^j X_{ik} B_{kj} = C_{ij}. \]
+\form#71:\[ X_{ij} = \frac{1}{A_{ii} + B_{jj}} \Bigl( C_{ij} - \sum_{k=i+1}^m A_{ik} X_{kj} - \sum_{k=1}^{j-1} X_{ik} B_{kj} \Bigr). \]
+\form#72:$ i=m,\ldots,1 $
+\form#73:$ j=1,\ldots,n $
+\form#74:$ A^p $
+\form#75:$ 1 + 3x^2 $
+\form#76:$ [ 1, 0, 3 ] $
+\form#77:$ |x| \le 1 $
+\form#78:$ 3 + x^2 $
+\form#79:$ [ 3, 0, 1 ] $
+\form#80:\begin{align*} C(u) & = \sum_{i=0}^{n}N_{i,p}(u)P_i \end{align*}
+\form#81:$u$
+\form#82:\begin{align*} C(u) & = \sum_{i=0}^{n}N_{i,p}P_i \end{align*}
+\form#83:$u \in [0;1]$
+\form#84:\begin{align*} \frac{d^i}{du^i}C(u) & = \sum_{i=0}^{n} \frac{d^i}{du^i} N_{i,p}(u)P_i \end{align*}
+\form#85:$p+1$
+\form#86:$P_i$
+\form#87:$p$
+\form#88:\begin{align*} N_{i,p}(u), \hdots, N_{i+p+1,p}(u) \end{align*}
+\form#89:\begin{align*} \frac{d^i}{du^i} N_{i,p}(u), \hdots, \frac{d^i}{du^i} N_{i+p+1,p}(u) \end{align*}
+\form#90:\begin{align*} u_0 & = \hdots = u_p = 0 \\ u_{m-p} & = \hdots = u_{m} = 1 \\ u_{j+p} & = \frac{1}{p}\sum_{i=j}^{j+p-1}\bar{u}_i \quad\quad j=1,\hdots,n-p \end{align*}
+\form#91:$m+1$
+\form#92:$ \Vert A x - b \Vert $
+\form#93:\[ A = U S V^* \]
+\form#94:$ O(n^2p) $

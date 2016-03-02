@@ -1,0 +1,4 @@
+<map id="MatrixWrapper&lt; ExpressionType &gt;" name="MatrixWrapper&lt; ExpressionType &gt;">
+<area shape="rect" id="node2" href="$classEigen_1_1MatrixBase.html" title="{MatrixBase\&lt; MatrixWrapper\l\&lt; ExpressionType \&gt; \&gt;\n||+ adjoint()\l+ adjointInPlace()\l+ applyHouseholderOnTheLeft()\l+ applyHouseholderOnTheRight()\l+ applyOnTheLeft()\l+ applyOnTheLeft()\l+ applyOnTheRight()\l+ applyOnTheRight()\l+ array()\l+ array()\land 115 more...\l+ Identity()\l+ Identity()\l+ Unit()\l+ Unit()\l+ UnitW()\l+ UnitX()\l+ UnitY()\l+ UnitZ()\l# MatrixBase()\l# operator+=()\l# operator&#45;=()\l}" alt="" coords="5,555,221,1021"/>
+<area shape="rect" id="node4" href="$classEigen_1_1DenseBase.html" title="Base class for all dense matrices, vectors, and arrays. " alt="" coords="20,5,207,507"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Quaternion&lt; Scalar, Options &gt;" name="Quaternion&lt; Scalar, Options &gt;">
+<area shape="rect" id="node2" href="$classEigen_1_1QuaternionBase.html" title="{QuaternionBase\&lt; Quaternion\l\&lt; _Scalar, _Options \&gt; \&gt;\n||+ _transformVector()\l+ angularDistance()\l+ cast()\l+ coeffs()\l+ coeffs()\l+ conjugate()\l+ dot()\l+ inverse()\l+ isApprox()\l+ norm()\land 23 more...\l+ Identity()\l}" alt="" coords="5,312,195,605"/>
+<area shape="rect" id="node4" href="$classEigen_1_1RotationBase.html" title="{RotationBase\&lt; Quaternion\l\&lt; _Scalar, _Options \&gt;, 3 \&gt;\n||+ _transformVector()\l+ derived()\l+ derived()\l+ inverse()\l+ matrix()\l+ operator*()\l+ operator*()\l+ operator*()\l+ operator*()\l+ toRotationMatrix()\l}" alt="" coords="12,5,188,264"/>
+</map>
